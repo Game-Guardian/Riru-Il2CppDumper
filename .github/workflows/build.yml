@@ -9,6 +9,8 @@ on:
         version_above_2018_3:
         version_above_2021_1:
         magisk_module_id:
+        module_name:
+        module_author:
         module_description:
 jobs:
   build:
