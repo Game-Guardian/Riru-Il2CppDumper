@@ -16,3 +16,4 @@ Riru版Il2CppDumper，在游戏运行时dump数据，用于绕过保护，加密
 - [ ] 泛型相关输出
 - [ ] 生成IDA脚本
 - [ ] 生成头文件
+"# Riru-Il2CppDumper" 
